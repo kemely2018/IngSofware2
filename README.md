@@ -31,7 +31,7 @@ Utilizando este proyecto:
    + Create a configuration file in the root directory of the project: sonar-project.properties
     </p>   
        <p align="center">
-         <img width="50%" height="50%" src="SonarQube/Imagenes/pro.PNG">
+         <img width="50%" height="50%" src="SonarQube/Imagenes/prop.PNG">
    </p>  
    + Run the following command from the project base directory to launch the analysis:sonar-scanner
        <p align="center">
