@@ -13,52 +13,52 @@ Basarse en https://www.tutorialspoint.com/selenium/selenium_webdriver.htm
   ### Scripting usando WebDriver
   ##### Paso 1 : Ejecute "Eclipse" desde la carpeta.
   <p align="center">
-         <img width="30%" height="30%" src="SELENIUM/Imagen/uno.PNG">
+         <img width="30%" height="30%" src="Imagen/uno.PNG">
   </p>
   
   ##### Paso 2 : Seleccione el espacio de trabajo haciendo clic en el botón 'Browse'.
   <p align="center">
-         <img width="30%" height="30%" src="SELENIUM/Imagen/dos.PNG">
+         <img width="30%" height="30%" src="Imagen/dos.PNG">
   </p>
   
   ##### Paso 3 : Ahora cree un 'New Project' desde el menú 'File' .
   <p align="center">
-         <img width="30%" height="30%" src="SELENIUM/Imagen/tres.PNG">
+         <img width="30%" height="30%" src="Imagen/tres.PNG">
   </p>
   
   ##### Paso 4 : Enter the Project Name and Click 'Next'.
   <p align="center">
-         <img width="30%" height="30%" src="SELENIUM/Imagen/cuatro.PNG">
+         <img width="30%" height="30%" src="Imagen/cuatro.PNG">
   </p>
   
   ##### Paso 5 : Go to Libraries Tab and select all the JAR's that we have downloaded.
   <p align="center">
-         <img width="30%" height="30%" src="SELENIUM/Imagen/cinco.PNG">
+         <img width="30%" height="30%" src="Imagen/cinco.PNG">
   </p>
   
   ##### Paso 6 : The Package is created as shown below.
   <p align="center">
-         <img width="30%" height="30%" src="SELENIUM/Imagen/seis.PNG">
+         <img width="30%" height="30%" src="Imagen/seis.PNG">
   </p>
   
   ##### Paso 7 : Ejecute "Eclipse" desde la carpeta.Now right-click on the package and select 'New' >> 'Class' to create a 'class'.
   <p align="center">
-         <img width="30%" height="30%" src="SELENIUM/Imagen/siete.PNG">
+         <img width="30%" height="30%" src="Imagen/siete.PNG">
   </p>
   
   ##### Paso 8 : Now name the class and make it the main function.
   <p align="center">
-         <img width="30%" height="30%" src="SELENIUM/Imagen/ocho.PNG">
+         <img width="30%" height="30%" src="Imagen/ocho.PNG">
   </p>
   
   ##### Paso 9 : The class outline is shown as below.
   <p align="center">
-         <img width="30%" height="30%" src="SELENIUM/Imagen/nueve.PNG">
+         <img width="30%" height="30%" src="Imagen/nueve.PNG">
   </p>
   
   ##### Paso 10 : Now it is time to code.
   <p align="center">
-         <img width="30%" height="30%" src="SELENIUM/Imagen/diez.PNG">
+         <img width="30%" height="30%" src="Imagen/diez.PNG">
   </p>
 
   1. Diseñar casos de prueba: Entradas, proceso, Resultado Esperado	
