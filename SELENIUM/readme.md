@@ -61,8 +61,7 @@ Basarse en https://www.tutorialspoint.com/selenium/selenium_webdriver.htm
          <img width="30%" height="30%" src="Imagen/diez.PNG">
   </p>
 
-  1. Diseñar casos de prueba: Entradas, proceso, Resultado Esperado	:
-  https://docs.google.com/spreadsheets/d/1K6bm9jiQkg6jQ6RagUPUrrNBT4QUL5bzqMI5gkM36B0/edit?usp=sharing
+  1. Diseñar casos de prueba: Entradas, proceso, Resultado Esperado	:[Aqui]
   
   2. Implementar los scripts de prueba
   3. Ejecutar los scripts de prueba
@@ -78,3 +77,4 @@ Documentación: https://selenium.dev/documentation/en/webdriver/
 [Selenium Web Driver]:https://www.selenium.dev/downloads/
 [Geckodriver]:https://github.com/mozilla/geckodriver/releases
 [Java 8+]:https://www.java.com/es/download/
+[Aqui]:https://docs.google.com/spreadsheets/d/1K6bm9jiQkg6jQ6RagUPUrrNBT4QUL5bzqMI5gkM36B0/edit?usp=sharing
